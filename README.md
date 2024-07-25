@@ -3,8 +3,8 @@
 ## Summary
 This repository contains the source of our paper, currently under review by the [International Journal of Stem Cells](https://www.ijstemcell.com/main.html).
 
-## [Dataset](https://doi.org/10.6084/m9.figshare.26367562)
-This dataset comprises microscope images of Mesenchymal Stem Cells cultured in single-layer and multi-layer flasks. These images are categorized into four classes according to the cell confluence level.
+## Dataset
+This [dataset](https://doi.org/10.6084/m9.figshare.26367562) comprises microscope images of Mesenchymal Stem Cells cultured in single-layer and multi-layer flasks. These images are categorized into four classes according to the cell confluence level.
 + Class 1: 0-40%
 + Class 2: 40-60%
 + Class 3: 60-80%
