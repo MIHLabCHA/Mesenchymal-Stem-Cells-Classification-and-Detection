@@ -40,3 +40,6 @@ Flag | Description | Default value
 -a (or --arch) | Classifier architecture | resnet50
 -i (or --input) | Path to input folder | ./input/MODE
 -o (or --output) | Path to output folder | ./output
+
+## Acknowledgements
+The RetinaNet module used is from the [PyTorch RetinaNet implementation](https://github.com/yhenon/pytorch-retinanet.git).
