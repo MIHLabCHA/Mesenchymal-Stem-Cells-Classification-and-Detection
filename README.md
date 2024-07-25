@@ -9,6 +9,7 @@ This [dataset](https://doi.org/10.6084/m9.figshare.26367562) comprises microscop
 + Class 2: 40-60%
 + Class 3: 60-80%
 + Class 4: 80-100%
+
 Furthermore, single-stack images contain bounding box annotations that indicate the presence of abnormal cells.
 
 ## Environment setting
