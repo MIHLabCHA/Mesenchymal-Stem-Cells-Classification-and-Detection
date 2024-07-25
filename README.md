@@ -1,7 +1,7 @@
 # Mesenchymal Stem Cells Classification and Detection
 
 ## Summary
-This repository contains the source of the our paper, currently under review of the [International Journal of Stem Cells](https://www.ijstemcell.com/main.html).
+This repository contains the source of our paper, currently under review by the [International Journal of Stem Cells](https://www.ijstemcell.com/main.html).
 
 ## Environment setting
 ### Windows
